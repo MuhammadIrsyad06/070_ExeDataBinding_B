@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\ExercisePABD_B\bin\Debug\ExercisePABD_B.exe.config
+C:\Users\lenovo\source\repos\ExercisePABD_B\bin\Debug\ExercisePABD_B.exe
+C:\Users\lenovo\source\repos\ExercisePABD_B\bin\Debug\ExercisePABD_B.pdb
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.Form1.resources
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.Form2.resources
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.Properties.Resources.resources
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.exe
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.pdb
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.Form3.resources
+C:\Users\lenovo\source\repos\ExercisePABD_B\obj\Debug\ExercisePABD_B.Form4.resources
